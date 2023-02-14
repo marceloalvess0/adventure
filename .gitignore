@@ -1,4 +1,10 @@
 # created by virtualenv automatically
 Lib/
 Scripts/
-pyvenv.cfg
+pyvenv.
+
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
