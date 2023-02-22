@@ -8,3 +8,4 @@ pyvenv.
 *.pot
 *.pyc
 __pycache__
+base_statics/global/image/bootstrap-icons/
