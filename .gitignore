@@ -2,10 +2,10 @@
 Lib/
 Scripts/
 pyvenv.
+base_statics/global/image/bootstrap-icons/
 
 # Django #
 *.log
 *.pot
 *.pyc
 __pycache__
-base_statics/global/image/bootstrap-icons/
